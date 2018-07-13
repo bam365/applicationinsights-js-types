@@ -1,0 +1,22 @@
+{
+    "name": "@types/applicationinsights-js",
+    "version": "1.0.5",
+    "description": "TypeScript definitions for ApplicationInsights-JS",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Kamil Szostak",
+            "url": "https://github.com/kamilszostak",
+            "githubUsername": "kamilszostak"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "96ce6fc5c9f372a2748acf146ab534ca2bb5d7af4fc85022539ae4d1c26f2cda",
+    "typeScriptVersion": "2.0"
+}
